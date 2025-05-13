@@ -1,4 +1,5 @@
-
+-- Question 1
+-- Write an SQL query to transform this table into 1NF, ensuring that each row represents a single product for an order
 
 -- Create a new table with a proper structure
 CREATE TABLE ProductDetail_1NF (
